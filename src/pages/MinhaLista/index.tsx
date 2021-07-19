@@ -39,6 +39,7 @@ const MinhaLista = () => {
                     {data?.map((item: any) => {
                         const mediaType = item?.in_production ? "serie" : "filme";
                         return (
+                            
                             <CardItem
                                 props={{
                                     key: item?.id,
