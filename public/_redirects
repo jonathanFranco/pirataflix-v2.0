@@ -1,1 +1,13 @@
-/* /index.html 200
+/              /en/home               302!  Language=en
+/              /es/inicio             302!  Language=es
+/              /pt/inicio             302!
+/home          /pt/inicio             301!
+/filmes        /pt/filmes             301!
+/series        /pt/series             301!
+/busca         /pt/busca              301!
+/minha-lista   /pt/minha-lista        301!
+/sorteio       /pt/sorteio            301!
+/filme/*       /pt/filme/:splat       301!
+/serie/*       /pt/serie/:splat       301!
+/pessoa/*      /pt/pessoa/:splat      301!
+/*             /index.html            200

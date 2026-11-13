@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /pt/busca
+Disallow: /en/search
+Disallow: /es/buscar
+Disallow: /pt/minha-lista
+Disallow: /en/my-list
+Disallow: /es/mi-lista
+
+Sitemap: https://pirataflix.netlify.app/sitemap.xml
